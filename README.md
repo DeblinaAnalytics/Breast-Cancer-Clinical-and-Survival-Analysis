@@ -68,12 +68,11 @@ SQL/
 ├── 08_Analytical_Queries.sql
 └── 09_SQL_Views.sql
 
-PowerBI/
-└── BreastCancerDashboard.pbix
+├── PowerBI/
+│   ├── Breast_Cancer_Survival_Dashboard.pbix
+│   └── Breast_Cancer_Survival_Dashboard.pdf
 
 Images/
-
-Dashboard.pdf
 
 README.md
 ```
