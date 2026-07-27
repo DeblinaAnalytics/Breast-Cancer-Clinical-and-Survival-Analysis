@@ -36,7 +36,8 @@ This project demonstrates the design of a dimensional SQL Server data warehouse 
 - `dim_grade`
 - `dim_hormonal_status`
 
-> *(Insert your star schema image here after uploading it.)*
+> *<img width="926" height="263" alt="data model" src="https://github.com/user-attachments/assets/52fb961c-cba9-4a44-b4de-8978c0d37025" />*
+
 
 ---
 
@@ -110,7 +111,9 @@ README.md
 
 The validated star schema and SQL views were used as the data source for interactive Power BI dashboards exploring survival outcomes and clinical characteristics.
 
-> *(Insert dashboard screenshots here after uploading them.)*
+<img width="589" height="333" alt="dashboard page 2" src="https://github.com/user-attachments/assets/b3a28eda-1fde-453e-b09a-bd7beabd087e" />
+
+<img width="590" height="329" alt="dashboard page 3" src="https://github.com/user-attachments/assets/cce79867-af3d-405d-a0cb-12dbd64d9c6b" />
 
 ---
 
